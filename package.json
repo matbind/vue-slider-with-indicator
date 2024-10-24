@@ -20,7 +20,7 @@
     "url": "https://github.com/viruslight/vue-slider-with-indicator"
   },
   "dependencies": {
-    "vue": "^2.5.2"
+    "vue": "^3.0.0"
   },
   "devDependencies": {
     "rollup": "^2.79.2",
